@@ -29,12 +29,22 @@
 ![クイズ画面](./public/screenshot1.png)
 
 ### ✅ 結果画面
-![結果画面](./public/screenshot22.png)
+![結果画面](./public/screenshot2.png)
 
 ---
 
 ## 📂 ディレクトリ構成（抜粋）
-QUIZ-APP/ ├── public/ │ ├── index.html │ └── logo192.png ├── src/ │ ├── App.jsx │ ├── index.js │ ├── App.css │ └── index.css ├── package.json └── README.md
+QUIZ-APP/ 
+├── public/ 
+│ ├── index.html 
+│ └── logo192.png 
+├── src/
+│ ├── App.jsx 
+│ ├── index.js 
+│ ├── App.css 
+│ └── index.css 
+├── package.json 
+└── README.md
 
 ---
 
@@ -49,11 +59,11 @@ npm start
 ---
 
 ## 🧪 今後の拡張案
-問題数の増加・ランダム化
-終了後のリトライ機能
-問題データの外部JSON化
-難易度設定の追加
-成績をローカルストレージに保存
+- 問題数の増加・ランダム化
+- 終了後のリトライ機能
+- 問題データの外部JSON化
+- 難易度設定の追加
+- 成績をローカルストレージに保存
 
 ---
 
