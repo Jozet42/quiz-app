@@ -34,6 +34,7 @@
 ---
 
 ## 📂 ディレクトリ構成（抜粋）
+```
 QUIZ-APP/ 
 ├── public/ 
 │ ├── index.html 
@@ -45,6 +46,7 @@ QUIZ-APP/
 │ └── index.css 
 ├── package.json 
 └── README.md
+```
 
 ---
 
@@ -75,3 +77,4 @@ npm start
 
 ## 📝 更新履歴
 2025/04/16：README.md作成、スクリーンショット追加
+2025/04/16：README.md構成整備
